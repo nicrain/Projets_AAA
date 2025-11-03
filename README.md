@@ -1,4 +1,4 @@
-# Projets_AAA
+# Distributeur de Capsules Intelligent
 
 This repository contains various project documents.
 
